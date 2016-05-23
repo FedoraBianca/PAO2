@@ -1,0 +1,17 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   lab.m
+#	deleted:    sin.m
+#
+# Untracked files:
+#	myCrossValidation.m
+#	newscript.asv
+#	newscript.m
+#	resfirstoos.csv
+#
+
